@@ -61,8 +61,17 @@
         height: 800px;
     }
     
+    .img-background {
+        width: 527.929px;
+        height: 527.929px;
+        border-radius: 527.929px;
+        background-color: rgba(241, 91, 34, 0.20);
+        position: relative;
+    }
+    
     .section-img {
-        margin-inline-end: 0%;
+        position: absolute;
+        margin-top: -737px;
     }
     
     .section-info {
